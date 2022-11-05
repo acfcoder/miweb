@@ -1,2 +1,8 @@
 Bye World, I mmiss you
 Very much
+Cambios en ramaC
+Quiero cambios exclusivos en la ramaC solamente.
+Solo C, recuerda
+No consigo que esto solo esté en la ramaC
+Se guarda en todas las ramas y esto me preocupa bastante
+
